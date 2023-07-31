@@ -1,4 +1,3 @@
-Claro, aqui estão os exercícios com as quebras de linha `<br>` adicionadas:
 
 Exercício 1: Calculadora Simples<br>
 Crie uma calculadora que receba dois números e um operador (+, -, *, /) e retorne o resultado da operação.<br>
